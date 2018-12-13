@@ -1,2 +1,2 @@
 # Data-Processing-and-Analysis
-All processing and analysis codes are welcome in any programming languages.
+All processing and analysis codes are available here in any programming languages.
